@@ -80,7 +80,7 @@ def program():
 
 
 =======
-BARTOSZ JEDNAK NIE PEDAL
+KONFLIKT
 >>>>>>> f64c0a93c19cc2a2b9084e075f238c2a816cdc95
 
 
