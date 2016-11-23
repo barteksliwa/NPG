@@ -58,7 +58,7 @@ def potegowanie():
 
     a = raw_input("Liczba ")
 
-    b = raw_input("Potêga ")
+    b = raw_input("PotÃªga ")
 
     wynik = float(a)**float(b)
 
@@ -80,7 +80,7 @@ def program():
 
 
 =======
-BARTOSZ PEDAL
+BARTOSZ JEDNAK NIE PEDAL
 >>>>>>> f64c0a93c19cc2a2b9084e075f238c2a816cdc95
 
 
