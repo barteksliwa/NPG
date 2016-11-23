@@ -8,6 +8,7 @@ def dodawanie():
 
     return wynik
 
+xxxx
 def odejmowanie():
 
     a = raw_input("Pierwsza liczba ")
