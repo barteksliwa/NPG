@@ -53,7 +53,7 @@ def dzieleniecal():
     return wynik
 
 def potegowanie():
-
+wfdsfsdfsd
     a = raw_input("Liczba ")
 
     b = raw_input("Potêga ")
